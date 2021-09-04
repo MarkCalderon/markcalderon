@@ -13,7 +13,7 @@
 
 ## Side Projects ##
 
-**React Todo (Refresher)** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
+**React Todo ** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
 
 It is a project for the purpose of learning the use of React Functional Components and especially using the React Hooks and ES6
 
