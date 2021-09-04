@@ -13,13 +13,17 @@
 
 ## Side Projects ##
 
+**React Todo (Refresher)** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
+
+It is a project for the purpose of learning the use of React Functional Components and especially using the React Hooks and ES6
+
 **[School LP](http://beautiful-passenger.surge.sh/)** 🖥 ✅ Staging site | [Code Base](https://github.com/MarkCalderon/school_lp)
 
 It is a project about a landing page, using a custom built framework built with the React framework, Browser Router and Class Components.
 
-**React Todo (Refresher)** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
+**[Blog](devcalderon.surge.sh)** 🖥 ✅ Staging site | [Code Base](https://github.com/MarkCalderon/blog_calderon)
 
-It is a project for the purpose of learning the use of React Functional Components and especially using the React Hooks and ES6
+it is a project about a developer's blog page, which retrieves data posts from Firebase using a custom React framework
 
 **Dexterious-devcal]** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/dexterous-devcal)
 
