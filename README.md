@@ -15,46 +15,46 @@
 
 **React Todo** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
 
-It is a project for the purpose of learning the use of React Functional Components and especially using the React Hooks and ES6
+A project for the purpose of learning the use of React Functional Components and especially using the React Hooks and ES6
 
 **[School LP](http://beautiful-passenger.surge.sh/)** 🖥 ✅ Staging site | [Code Base](https://github.com/MarkCalderon/school_lp)
 
-It is a project about a landing page, using a custom built framework built with the React framework, Browser Router and Class Components.
+A project about a landing page, using a custom built framework built with the React framework, Browser Router and Class Components.
 
 **[Blog](devcalderon.surge.sh)** 🖥 ✅ Staging site | [Code Base](https://github.com/MarkCalderon/blog_calderon)
 
-it is a project about a developer's blog page, which retrieves data posts from Firebase using a custom React framework
+A project about a developer's blog page, which retrieves data posts from Firebase using a custom React framework
 
 **Dexterious-devcal** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/dexterous-devcal)
 
-It is a project that uses VueJS and Firebase to make a Content Management System 
+A project that uses VueJS and Firebase to make a Content Management System 
 
 ## Projects ##
 ***Code base is privatized, site preview only is available***
 
 **[Mizumawari24H](http://selfish-bat.surge.sh/)** 🖥 ✅ Staging site
 
-It is a project to show support for water services and the effects of the COVID-19 pandemic.
+A project to show support for water services and the effects of the COVID-19 pandemic.
 
 **[Kanamachi](https://private-stranger.surge.sh/)** 🖥 ✅  Staging site
 
-It is a project about a dental agency.
+A project about a dental agency.
 
 **[Puller.asia](https://puller.asia/)** 🖥 ✅  Staging site
 
-It is a project of a popular pet product supplier.
+A project of a popular pet product supplier.
 
 **[Rouland](https://distinct-mountain.surge.sh/)** 🖥 ✅  Staging site
 
-It is a project that serves as a landing page for hair salon.
+A project that serves as a landing page for hair salon.
 
 **[Blueled](https://fortunate-wind.surge.sh/)** 🖥 ✅  Staging site
 
-It is a project to showcase information about an insurance agency.
+A project to showcase information about an insurance agency.
 
 **[JSM Project X](https://distinct-mountain.surge.sh/)** 🖥 ✅  Staging site
 
-It is landing page to discuss the difficulties and potential interest in the night life industry.
+A project to discuss the difficulties and potential interest of the night life industry.
 
 <!--
 **MarkCalderon/markcalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
