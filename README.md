@@ -1,15 +1,18 @@
 ![banner](https://user-images.githubusercontent.com/6682514/132101800-fb67a74d-3bdc-4d8d-9bcb-c9ee8b78cba4.jpg)
 
-Hi! I'm **Mark Angeo**, a *Front End web developer* with years of experience working in a digital production agency, freelancer and previously experienced teacher who tooks parts in the media team. I like creating user interfaces and looking to improve user experience and accessiblity.
+Hi! I'm **Mark Angeo**, a *Front End Web developer* with years of experience working in a digital production agency, freelancer and previously experienced teacher who tooks parts in the media team. I like creating user interfaces and looking to improve user experience and accessiblity.
 
 ## Side Projects ##
 
 **[School LP](http://beautiful-passenger.surge.sh/)** 🖥 ✅ Staging site | [Code Base](https://github.com/MarkCalderon/school_lp)
 
+It is a project about a landing page, using a custom built framework built with the React framework, Browser Router and Class Components.
+
 **React Todo (Refresher)** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
 
-**Dexterious-devcal]** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/dexterous-devcal)
+It is a project for the purpose of learning the use of React Functional Components and especially using the React Hooks and ES6
 
+**Dexterious-devcal]** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/dexterous-devcal)
 
 It is a project that uses VueJS and Firebase to make a Content Management System 
 
