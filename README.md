@@ -17,11 +17,11 @@
 
 A project for the purpose of learning the use of React Functional Components and especially using the React Hooks and ES6
 
-**[School LP](http://beautiful-passenger.surge.sh/)** 🖥 ✅ Staging site | [Code Base](https://github.com/MarkCalderon/school_lp)
+**[School LP](http://beautiful-passenger.surge.sh/)** 🖥 ✅  Staging site | [Code Base](https://github.com/MarkCalderon/school_lp)
 
 A project about a landing page, using a custom built framework built with the React framework, Browser Router and Class Components.
 
-**[Blog](devcalderon.surge.sh)** 🖥 ✅ Staging site | [Code Base](https://github.com/MarkCalderon/blog_calderon)
+**[Blog](devcalderon.surge.sh)** 🖥 ✅  Staging site | [Code Base](https://github.com/MarkCalderon/blog_calderon)
 
 A project about a developer's blog page, which retrieves data posts from Firebase using a custom React framework
 
@@ -32,7 +32,7 @@ A project that uses VueJS and Firebase to make a Content Management System
 ## Projects ##
 ***Code base is privatized, only site preview is available***
 
-**[Mizumawari24H](http://selfish-bat.surge.sh/)** 🖥 ✅ Staging site
+**[Mizumawari24H](http://selfish-bat.surge.sh/)** 🖥 ✅  Staging site
 
 A project to show support for water services and the effects of the COVID-19 pandemic.
 
