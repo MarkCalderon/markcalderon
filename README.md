@@ -2,12 +2,13 @@
 
 > Hi! I'm **Mark Angeo**, a *Front-end Web Developer* with years of experience working in a digital production agency, freelancer and an experienced computer teacher who tooks parts in the school media team. I like creating user interfaces and towards improving user experience and accessiblity.
 
+<!--
 ❤️ Watch all types of dramas and anime
 
 ▶️ FPS Games
 
 🕵 Problems & Solutions
-
+-->
 
 
 ## Side Projects ##
