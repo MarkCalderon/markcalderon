@@ -1,4 +1,6 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/6682514/132101800-fb67a74d-3bdc-4d8d-9bcb-c9ee8b78cba4.jpg)
+
+Hi! I'm Mark Angeo, a Front end web developer with years of experience working in a digital production agency, freelancer and previously experienced teacher who tooks parts in the media team. I like creating user interfaces and looking to improve user experience and accessiblity.
 
 <!--
 **MarkCalderon/markcalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
