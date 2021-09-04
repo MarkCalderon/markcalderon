@@ -13,7 +13,7 @@
 
 ## Side Projects ##
 
-**React Todo ** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
+**React Todo** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
 
 It is a project for the purpose of learning the use of React Functional Components and especially using the React Hooks and ES6
 
@@ -25,7 +25,7 @@ It is a project about a landing page, using a custom built framework built with 
 
 it is a project about a developer's blog page, which retrieves data posts from Firebase using a custom React framework
 
-**Dexterious-devcal]** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/dexterous-devcal)
+**Dexterious-devcal** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/dexterous-devcal)
 
 It is a project that uses VueJS and Firebase to make a Content Management System 
 
