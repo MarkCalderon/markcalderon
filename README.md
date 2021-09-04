@@ -30,7 +30,7 @@ A project about a developer's blog page, which retrieves data posts from Firebas
 A project that uses VueJS and Firebase to make a Content Management System 
 
 ## Projects ##
-***Code base is privatized, site preview only is available***
+***Code base is privatized, only site preview is available***
 
 **[Mizumawari24H](http://selfish-bat.surge.sh/)** 🖥 ✅ Staging site
 
