@@ -4,34 +4,40 @@ Hi! I'm **Mark Angeo**, a *Front End web developer* with years of experience wor
 
 ## Side Projects ##
 
-1. [School LP](https://github.com/MarkCalderon/school_lp)
-2. [React Todo (Refresher)](https://github.com/MarkCalderon/react-todo)
-3. [Dexterious-devcal](https://github.com/MarkCalderon/dexterous-devcal)
+**[School LP](http://beautiful-passenger.surge.sh/)** 🖥 ✅ Staging site | [Code Base](https://github.com/MarkCalderon/school_lp)
+
+**React Todo (Refresher)** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
+
+**Dexterious-devcal]** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/dexterous-devcal)
+
+
+It is a project that uses VueJS and Firebase to make a Content Management System 
 
 ## Projects ##
-***Code base is privatized, live preview only available***
+***Code base is privatized, site preview only is available***
 
-**[Mizumawari24H](http://selfish-bat.surge.sh/)**
+**[Mizumawari24H](http://selfish-bat.surge.sh/)** 🖥 ✅ Staging site
 
 It is a project to show support for water services and the effects of the COVID-19 pandemic.
 
-**[Kanamachi](https://private-stranger.surge.sh/)**
+**[Kanamachi](https://private-stranger.surge.sh/)** 🖥 ✅  Staging site
 
 It is a project about a dental agency.
 
-**[Puller.asia](https://puller.asia/)**
+**[Puller.asia](https://puller.asia/)** 🖥 ✅  Staging site
 
 It is a project of a popular pet product supplier.
 
-**[Rouland](https://distinct-mountain.surge.sh/)**
+**[Rouland](https://distinct-mountain.surge.sh/)** 🖥 ✅  Staging site
 
 It is a project that serves as a landing page for hair salon.
 
-**[Blueled](https://fortunate-wind.surge.sh/)**
+**[Blueled](https://fortunate-wind.surge.sh/)** 🖥 ✅  Staging site
 
 It is a project to showcase information about an insurance agency.
 
-**[JSM Project X](https://distinct-mountain.surge.sh/)**
+**[JSM Project X](https://distinct-mountain.surge.sh/)** 🖥 ✅  Staging site
+
 It is landing page to discuss the difficulties and potential interest in the night life industry.
 
 <!--
