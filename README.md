@@ -1,6 +1,14 @@
 ![banner](https://user-images.githubusercontent.com/6682514/132101800-fb67a74d-3bdc-4d8d-9bcb-c9ee8b78cba4.jpg)
 
-Hi! I'm **Mark Angeo**, a *Front End Web developer* with years of experience working in a digital production agency, freelancer and previously experienced teacher who tooks parts in the media team. I like creating user interfaces and looking to improve user experience and accessiblity.
+> Hi! I'm **Mark Angeo**, a *Front-end Web Developer* with years of experience working in a digital production agency, freelancer and an experienced computer teacher who tooks parts in the school media team. I like creating user interfaces and towards improving user experience and accessiblity.
+
+❤️ Watch all types of dramas and anime across languages
+
+▶️ FPS like Battlefield
+
+🕵 Problems & Solutions
+
+
 
 ## Side Projects ##
 
