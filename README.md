@@ -21,7 +21,7 @@ A project for the purpose of learning the use of React Functional Components and
 
 A project about a landing page, using a custom built framework built with the React framework, Browser Router and Class Components.
 
-**[Blog](devcalderon.surge.sh)** 🖥 ✅  Staging site | [Code Base](https://github.com/MarkCalderon/blog_calderon)
+**[Blog](https://devcalderon.surge.sh)** 🖥 ✅  Staging site | [Code Base](https://github.com/MarkCalderon/blog_calderon)
 
 A project about a developer's blog page, which retrieves data posts from Firebase using a custom React framework
 
