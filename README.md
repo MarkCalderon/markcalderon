@@ -32,6 +32,10 @@ A project that uses VueJS and Firebase to make a Content Management System
 ## Projects ##
 ***Code base is privatized, only site preview is available***
 
+**[Kagawa Backoffice](http://backoffice-kagawa.net/)** 🖥 ✅  Live site
+
+A project that fixes the PC banner and added a SP responsive design and interactivity.
+
 **[Mizumawari24H](http://selfish-bat.surge.sh/)** 🖥 ✅  Staging site
 
 A project to show support for water services and the effects of the COVID-19 pandemic.
