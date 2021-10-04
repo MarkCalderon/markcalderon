@@ -32,10 +32,6 @@ A project that uses VueJS and Firebase to make a Content Management System
 ## Projects ##
 ***Code base is privatized, only site preview is available***
 
-**[Kagawa Backoffice](http://backoffice-kagawa.net/)** 🖥 ✅  Live site
-
-A project that fixes the PC banner and added a SP responsive design and interactivity.
-
 **[Mizumawari24H](http://selfish-bat.surge.sh/)** 🖥 ✅  Staging site
 
 A project to show support for water services and the effects of the COVID-19 pandemic.
@@ -59,6 +55,10 @@ A project to showcase information about an insurance agency.
 **[JSM Project X](https://distinct-mountain.surge.sh/)** 🖥 ✅  Staging site
 
 A project to discuss the difficulties and potential interest of the night life industry.
+
+**[Kagawa Backoffice](http://backoffice-kagawa.net/)** 🖥 ✅  Live site
+
+A project that showcases the landing page of a Accounting agency.
 
 <!--
 **MarkCalderon/markcalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
