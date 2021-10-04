@@ -10,25 +10,6 @@
 🕵 Problems & Solutions
 -->
 
-
-## Side Projects ##
-
-**React Todo** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
-
-A project for the purpose of learning the use of React Functional Components and especially using the React Hooks and ES6
-
-**[School LP](http://beautiful-passenger.surge.sh/)** 🖥 ✅  Staging site | [Code Base](https://github.com/MarkCalderon/school_lp)
-
-A project about a landing page, using a custom built framework built with the React framework, Browser Router and Class Components.
-
-**[Blog](https://devcalderon.surge.sh)** 🖥 ✅  Staging site | [Code Base](https://github.com/MarkCalderon/blog_calderon)
-
-A project about a developer's blog page, which retrieves data posts from Firebase using a custom React framework
-
-**Dexterious-devcal** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/dexterous-devcal)
-
-A project that uses VueJS and Firebase to make a Content Management System 
-
 ## Projects ##
 ***Code base is privatized, only site preview is available***
 
@@ -59,6 +40,24 @@ A project to discuss the difficulties and potential interest of the night life i
 **[Kagawa Backoffice](http://backoffice-kagawa.net/)** 🖥 ✅  Live site
 
 A project that showcases the landing page of a Accounting agency.
+
+## Side Projects ##
+
+**React Todo** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
+
+A project for the purpose of learning the use of React Functional Components and especially using the React Hooks and ES6
+
+**[School LP](http://beautiful-passenger.surge.sh/)** 🖥 ✅  Staging site | [Code Base](https://github.com/MarkCalderon/school_lp)
+
+A project about a landing page, using a custom built framework built with the React framework, Browser Router and Class Components.
+
+**[Blog](https://devcalderon.surge.sh)** 🖥 ✅  Staging site | [Code Base](https://github.com/MarkCalderon/blog_calderon)
+
+A project about a developer's blog page, which retrieves data posts from Firebase using a custom React framework
+
+**Dexterious-devcal** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/dexterous-devcal)
+
+A project that uses VueJS and Firebase to make a Content Management System 
 
 <!--
 **MarkCalderon/markcalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
