@@ -15,7 +15,11 @@
 
 **[Alfa Soko](https://sweet-veil.surge.sh/)** 🖥 ✅  Staging site
 
+A project about a logistics services company.
+
 **[Ogawa Group](https://coherent-wax.surge.sh/)** 🖥 ✅  Staging site
+
+A project about a real estate agency.
 
 **[Mizumawari24H](http://selfish-bat.surge.sh/)** 🖥 ✅  Staging site
 
