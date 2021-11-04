@@ -13,6 +13,10 @@
 ## Projects ##
 ***Code base is privatized, only site preview is available***
 
+**[Alfa Soko](https://sweet-veil.surge.sh/)** 🖥 ✅  Staging site
+
+**[Ogawa Group](https://coherent-wax.surge.sh/)** 🖥 ✅  Staging site
+
 **[Mizumawari24H](http://selfish-bat.surge.sh/)** 🖥 ✅  Staging site
 
 A project to show support for water services and the effects of the COVID-19 pandemic.
