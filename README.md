@@ -14,7 +14,7 @@
 ***Code base is privatized, only site preview is available***
 
 
-**[Love Earth/Love Shrimp](https://altafirmagroup.com.au/)** 🖥 ✅  Live site
+**[Altafirma Group](https://altafirmagroup.com.au/)** 🖥 ✅  Live site
 
 A landing page project about a IT solutions provider based in Australia
 
