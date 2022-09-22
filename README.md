@@ -13,6 +13,15 @@
 ## Projects ##
 ***Code base is privatized, only site preview is available***
 
+
+**[Love Earth/Love Shrimp](https://altafirmagroup.com.au/)** 🖥 ✅  Live site
+
+A landing page project about a IT solutions provider based in Australia
+
+**[Love Earth/Love Shrimp](https://damp-soda.surge.sh/)** 🖥 ✅  Staging site
+
+A responsive UI project built for a cryto wallet application.
+
 **[Alfa Soko](https://sweet-veil.surge.sh/)** 🖥 ✅  Staging site
 
 A project about a logistics services company.
