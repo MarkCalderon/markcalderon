@@ -58,7 +58,7 @@ A project to discuss the difficulties and potential interest of the night life i
 
 A project that showcases the landing page of a Accounting agency.
 
-## Side Projects ##
+## Training Projects ##
 
 **React Todo** 🖥 🆇 | [Code Base](https://github.com/MarkCalderon/react-todo)
 
