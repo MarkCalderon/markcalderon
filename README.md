@@ -38,7 +38,7 @@ A project to show support for water services and the effects of the COVID-19 pan
 
 A project about a dental agency.
 
-**[Puller.asia](https://puller.asia/)** 🖥 ✅  Live site
+**[Puller.asia]** 🖥 🆇 
 
 A project of a popular pet product supplier.
 
